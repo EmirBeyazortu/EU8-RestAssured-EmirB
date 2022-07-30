@@ -10,7 +10,7 @@ public abstract class HRTestBase {
     @BeforeAll
     public static void init(){
         //save baseurl inside this variable so that we don't need to type each http method.
-        RestAssured.baseURI = "http://18.204.201.165:1000/ords/hr";
+        RestAssured.baseURI = "http://54.91.11.180:1000/ords/hr";
     }
 
 

@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 
 public class SpartanGetReguest {
 
-    String baseUrl = "http://18.204.201.165:8000";
+    String baseUrl = "http://54.91.11.180:8000";
 
     // Given Accept type application/json
     // When user send GET request to api/spartans end point
